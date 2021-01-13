@@ -1,2 +1,2 @@
-# vueStudy
+# VueStudy
 study of vue
